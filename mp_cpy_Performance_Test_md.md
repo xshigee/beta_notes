@@ -1,5 +1,5 @@
 
-2021/2/7  
+2021/2/7+  
 
 MicroPython CircuitPython Performace Test (v2)
 # MicroPython CircuitPython Performace Test (v2)
@@ -162,6 +162,7 @@ Count:  39187
 |micropython-Rpi4 |M|	16,117,283|
 |python3-Rpi4 |P|	11,359,199 |
 []()  
+
 M/C/Pは、pythonの種類を表し、  
 M:MicroPython、   
 C:CircuitPython、  
